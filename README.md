@@ -2,7 +2,7 @@
 Submission Akhir - Image Classification Model Deployment - Belajar Pengembangan Machine Learning - Dicoding \
 Author : Hazmi Cokro
 
-Dataset : "Rock Paper Scissors"
+Dataset : "Rock Paper Scissors" \
 Model CNN + Learning Rate Scheduler + Callbacks
 
 Accuracy :
